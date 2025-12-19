@@ -10,13 +10,21 @@ public class ArmstrongNumber {
 
         // Store the original number for comparison later
         int originalNumber = number;
-        // Store the sum of cubes of digits
+        // Store the sum of powers of digits
         int sum = 0;  
 
-        // Find digits and sum of cube of digits
+	// count the digits to use as power
+        int count = 0;
+        while(number != 0) {
+            count++;
+            number /= 10;
+        }
+        number = originalNumber; 
+
+        // Find digits and sum of powers of digits
         while (number != 0) {
             int digit = number % 10;  // Last digit
-            sum += Math.pow(digit, 3);  // Sum of cube of digit
+            sum += Math.pow(digit, count);  // Sum of digits whose power raised to count
             number /= 10;  // Remove last digit
         }
 

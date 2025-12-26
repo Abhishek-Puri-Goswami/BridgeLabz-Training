@@ -158,3 +158,17 @@ BridgeLabz-Training/
   
 🔗 **Code Link:**  
 👉 [Day 8 – Extras](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+
+---
+
+### 🗓 Day 9 – Scenario-Based & LeetCode Array Practice  
+**(Date: 24-Dec-2025)**
+
+- Solved **scenario-based problems** using Java.
+- Practiced **array-based problems on LeetCode**.
+- Focused on logical thinking and clean code.
+- Committed and pushed all solutions.
+
+🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day%2001)  
+👉 [LeetCode Array Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)

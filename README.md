@@ -95,3 +95,19 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [Day 5 – Arrays](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+
+---
+  
+ ### 🗓 Day 6 – Java Methods
+ **(Date: 20-Dec-2025)**
+  
+ - Studied Java methods:
+   - Method declaration
+   - Method calling
+   - Parameter passing
+ - Practiced reusable logic using methods.
+ - Implemented programs for reusable methods.
+ - Committed and pushed solutions to the repository.
+  
+🔗 **Code Link:**  
+👉 [Day 6 – Methods](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)

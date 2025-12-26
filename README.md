@@ -128,3 +128,33 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [Day 7 – Strings](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+
+---
+  
+### 🗓 Day 8 – Extra Built-in Functions & String Practice  
+**(Date: 23-Dec-2025)**
+  
+- Practiced Java built-in classes such as `Math` and `Random`.
+- Worked with date and time handling using Java 8+ date-time APIs:
+  - `LocalDate`
+  - `LocalTime`
+  - `LocalDateTime`
+  - `ZonedDateTime`
+  - `DateTimeFormatter`
+- Practiced String concepts including:
+  - Creating strings and taking string input
+  - Escape sequences (`\`)
+  - String arrays
+  - Strings as method parameters
+  - Built-in `String` class methods
+  - ASCII character codes
+- Studied Java exception handling concepts:
+  - Java exception hierarchy
+  - Checked and unchecked exceptions
+  - `java.lang.RuntimeException`
+- Implemented utility programs such as a temperature converter.
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+  
+🔗 **Code Link:**  
+👉 [Day 8 – Extras](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)

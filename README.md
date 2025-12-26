@@ -76,3 +76,22 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [Day 4 – Control Flow](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+
+---
+
+### 🗓 Day 5 – Arrays & Basic Problem Solving  
+**(Date: 19-Dec-2025)**
+
+- Studied arrays in Java:
+  - Single-dimensional arrays
+  - Multi-dimensional arrays
+- Practiced array traversal and operations.
+- Solved problems related to:
+  - Basic array-based logic
+  - Digit frequency calculation
+  - Finding mean height
+- Strengthened logical thinking using array problems.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 5 – Arrays](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)

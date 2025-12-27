@@ -1,8 +1,5 @@
 # Eclipse specific files
 .metadata/
-.settings/
-.classpath
-.project
 
 # Java build output
 bin/

@@ -186,3 +186,15 @@ BridgeLabz-Training/
 🔗 **Code Links:**  
 👉 [Scenario Based Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day%2002)  
 👉 [LeetCode Array Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
+
+---
+
+### 🗓 Day 11 – LeetCode String Practice  
+**(Date: 27-Dec-2025)**
+
+- Practiced **10 string-based problems on LeetCode**.
+- Focused on logical thinking and clean code.
+- Committed and pushed all solutions.
+
+🔗 **Code Links:**  
+👉 [LeetCode String Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings)

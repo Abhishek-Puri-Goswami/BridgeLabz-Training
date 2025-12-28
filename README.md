@@ -198,3 +198,16 @@ BridgeLabz-Training/
 
 🔗 **Code Links:**  
 👉 [LeetCode String Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings)
+
+---
+
+
+### 🗓 Day 12 – LeetCode String Practice  
+**(Date: 28-Dec-2025)**
+
+- Practiced **11 math-based basic logic problems on LeetCode**.
+- Focused on logical thinking and clean code.
+- Committed and pushed all solutions.
+
+🔗 **Code Links:**  
+👉 [LeetCode Basic Logic Math Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/basic-logic-math)

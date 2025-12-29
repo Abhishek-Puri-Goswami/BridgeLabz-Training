@@ -201,7 +201,6 @@ BridgeLabz-Training/
 
 ---
 
-
 ### 🗓 Day 12 – LeetCode String Practice  
 **(Date: 28-Dec-2025)**
 
@@ -211,3 +210,15 @@ BridgeLabz-Training/
 
 🔗 **Code Links:**  
 👉 [LeetCode Basic Logic Math Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/basic-logic-math)
+
+---
+
+### 🗓 Day 13 – Scenario-based Practice  
+**(Date: 29-Dec-2025)**
+
+- Practiced **5 scenario logic problems on LeetCode**.
+- Focused on logical thinking and clean code.
+- Committed and pushed all solutions.
+
+🔗 **Code Links:**  
+👉 [Scenario Basic Logic Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day%2003)

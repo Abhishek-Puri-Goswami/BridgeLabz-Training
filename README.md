@@ -45,3 +45,18 @@ BridgeLabz-Training/
 👉 [Day 10 – Constructors & Static Concepts](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors)
 
 ---
+
+## 📅 Week 3: Java Object-Oriented Programming (OOP)
+
+### 🗓 Day 11 – `this`, `final` & `static` in Java  
+**(Date: 29-Dec-2025)**
+
+- Studied Java keywords:
+  - `this`, `static`, and `final`
+- Understood the purpose and usage of each keyword.
+- Studied access modifiers in Java.
+- Learned instance vs class (`static`) variables and methods.
+- Committed and pushed all work.
+
+🔗 **Code Link:**  
+👉 [Day 11 – this, final & static](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/finalandstatic/levelone)

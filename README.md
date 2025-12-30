@@ -114,7 +114,7 @@ BridgeLabz-Training/
 
 ---
 
-## 📅 Week 2: Strings & Extra Programming Fundamentals
+## 📅 Week 2: Strings & Programming Fundamentals
 
 ### 🗓 Day 7 – Java Strings
 **(Date: 22-Dec-2025)**
@@ -131,7 +131,7 @@ BridgeLabz-Training/
 
 ---
   
-### 🗓 Day 8 – Extra Built-in Functions & String Practice  
+### 🗓 Day 8 – Built-in Functions & String Practice  
 **(Date: 23-Dec-2025)**
   
 - Practiced Java built-in classes such as `Math` and `Random`.
@@ -157,7 +157,7 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
   
 🔗 **Code Link:**  
-👉 [Day 8 – Extras](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+👉 [Day 8 – Built-In Functions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
 ---
 

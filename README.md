@@ -212,6 +212,7 @@ BridgeLabz-Training/
 👉 [LeetCode Basic Logic Math Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/basic-logic-math)
 
 ---
+## 📅 Week 2: Practical Applications & Practice
 
 ### 🗓 Day 13 – Scenario-based Practice  
 **(Date: 29-Dec-2025)**

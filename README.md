@@ -1,114 +1,122 @@
-# BridgeLabz-Training
+# BridgeLabz Training Journey
 
-This repository tracks my structured training and hands-on practice during the BridgeLabz program.  
-The work is organized **branch-wise**, with each branch focusing on a specific learning phase.
+> A comprehensive Java programming training repository covering Core Java fundamentals to Object-Oriented Programming concepts.
+
+##  Training Overview
+
+This repository documents my learning journey at BridgeLabz, spanning from **December 15, 2025** to present. The training is organized into structured branches covering different aspects of Java development.
 
 ---
 
-## 📌 Repository Structure
+##  Repository Branches
+
+### 🔹 [core-java-practice](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice)
+**Week 1** : Fundamentals of Java Programming
+
+### 🔹 [java-oops-practice](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice)
+**Week 2** : Object-Oriented Programming
+
+---
+
+## 📂 Project Structure
 
 ```
 BridgeLabz-Training/
-│── core-java-practice/ # Core Java fundamentals & problem solving
-│── java-oops-practice/ # Object-Oriented Programming (upcoming)
-│── main/ # Consolidated progress & documentation
-│── README.md
+│
+├── 📁 core-java-practice/
+│   ├── 📁 gcr-codebase/
+│   │   ├── 📁 prerequisites/          # Basic Java programs 
+│   │   ├── 📁 programming-elements/   # Java programming elements 
+│   │   ├── 📁 control-flows/          # If-else, loops, switch 
+│   │   ├── 📁 arrays/                 # Array operations
+│   │   ├── 📁 methods/                # Method practices
+│   │   ├── 📁 strings/                # String manipulation 
+│   │   └── 📁 Extras/                 # Built-in methods
+│   ├── 📁 leet-code-codebase/         # LeetCode solutions
+│   └── 📁 scenario-based-codebase/    # Real-world problems
+│
+└── 📁 java-oops-practice/
+    └── 📁 gcr-codebase/
+        └── 📁 JavaOopsConcepts/
+            └── 📁 src/
+                └── 📁 com/
+                    ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
+                    └── 📁 constructor/       # Constructor, access modifiers
+                    └── 📁 finalandstatic/    # Keywords, instance vs class members
+                    └── 📁 objectmodeling/    # Diagrams, relationships, communication
 ```
 
 ---
 
-## 📈 Training Progress Overview
+##  Learning Milestones
 
-### ✅ Core Java Fundamentals  
-**Branch:** `core-java-practice`
+### **Week 1 : Core Java Programming**
 
-This branch contains hands-on practice covering Java fundamentals, problem-solving, and Git-based workflow.
+| Day |     Date    | Topic                           | Coverage                              |
+|-----|-------------|---------------------------------|---------------------------------------|
+|   1 | 15-Dec      | Git & GitHub Setup              | Repository setup, Git workflow        |
+|   2 | 16-Dec      | Java Basics                     | Basic syntax, prerequisites           |
+|   3 | 17-Dec      | Programming Elements            | Data types, operators, input handling |
+|   4 | 18-Dec      | Control Flow                    | Conditions, loops, logical problems   |
+|   5 | 19-Dec      | Arrays                          | 1D & 2D arrays, traversal             |
+|   6 | 20-Dec      | Methods                         | Method declaration, parameters        |
+|   7 | 22-Dec      | Strings                         | String creation, methods              |
+|   8 | 23-Dec      | Built-in Functions & Exceptions | Math, Random, Date-Time, exceptions   |
 
----
+### **Week 2 : Object-Oriented Programming**
 
-## 📅 Week 1: Git, GitHub & Java Programming Fundamentals
-
-### Day 1 – Git & GitHub Setup (15-Dec-2025)
-- Installed and configured Git
-- Created and structured the GitHub repository
-- Learned essential Git commands (`init`, `clone`, `add`, `commit`, `push`)
-- Successfully pushed the initial Java project structure
-
----
-
-### Day 2 – Git Practice & Basic Java Programs (16-Dec-2025)
-- Practiced Git workflow to understand commits and version control
-- Implemented basic Java programs to understand syntax and execution flow
-- Strengthened confidence in pushing incremental changes to GitHub
-
----
-
-### Day 3 – Programming Elements in Java (17-Dec-2025)
-- Java comments and coding standards
-- Primitive data types and variables
-- Operators and operator precedence
-- Type conversion and casting
-- User input using `Scanner`
-- Solved multiple foundational programs
+| Day |     Date    | Topic                          | Coverage                               |
+|-----|-------------|--------------------------------|----------------------------------------|
+|   9 | 26-Dec      | OOP Basics                     | Procedural vs OOP, fundamentals        |
+|  10 | 27-Dec      | Constructors & Static Concepts | Constructors, access modifiers, static |
+|  11 | 29-Dec      | `this`, `final`, `static`      | Keywords, instance vs class members    |
+|  12 | 30-Dec      | Object Modeling                | Diagrams, relationships, communication |
 
 ---
 
-### Day 4 – Control Flow & Logical Constructs (18-Dec-2025)
-- Conditional statements (`if`, `if-else`, `switch`, ternary)
-- Looping constructs (`for`, `while`, `do-while`)
-- Control statements (`break`, `continue`)
-- Solved logical problems like factorial and sum of natural numbers
+##  Key Concepts Covered
+
+### Core Java (core-java-practice)
+-  **Fundamentals**: Variables, data types, operators
+-  **Control Structures**: If-else, loops, switch-case
+-  **Arrays**: Single & multi-dimensional arrays
+-  **Methods**: Parameters, return types, overloading
+-  **Strings**: Manipulation, comparisons, exceptions
+-  **Problem Solving**: LeetCode challenges, real-world scenarios
+
+### Object-Oriented Programming (java-oops-practice)
+-  **Classes & Objects**: Creating and instantiating objects
+-  **Encapsulation**: Data hiding and access modifiers
+-  **Constructors**: Default, parameterized, overloading
+-  **Abstraction**: Interface-based design patterns
 
 ---
 
-### Day 5 – Arrays & Basic Problem Solving (19-Dec-2025)
-- Single-dimensional and multi-dimensional arrays
-- Array traversal and element manipulation
-- Logical problems including digit frequency and mean calculation
-- Improved problem-solving approach using arrays
+## 🔗 Quick Links
 
+### `core-java-practice` :
+- 📌 [Prerequisites](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-requisites)
+- 📌 [Control Flows](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+- 📌 [Programming Elements](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+- 📌 [Arrays](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+- 📌 [Methods](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
+- 📌 [Strings](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
+- 📌 [Built-In Functions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+- 📌 [LeetCode Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+- 📌 [Scenario-Based Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+### `java-oops-practice` :
+- 📌 [Classes and Objects](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
+- 📌 [Constructors ](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/levelone)
+- 📌 [this, final, static, instanceof](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/finalandstatic)
+- 📌 [Object Modeling & Relations](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
 ---
 
-### Day 6 – Java Methods (20-Dec-2025)
-- Method declaration and invocation
-- Parameter passing
-- Reusable logic through methods
-- Implemented modular and maintainable programs
+## 🎓 Learnings & Best Practices
 
+-  **Code Organization**: Following industrial standards
+-  **Naming Conventions**: Camel case and meaningful names
+-  **Version Control**: Regular commits with descriptive messages
+-  **Problem-Solving**: Breaking complex problems into smaller tasks
+-  **Documentation**: Clear comments and README files
 ---
-
-## 📅 Week 2: Strings & Extra Programming Fundamentals
-
-### Day 7 – Java Strings (22-Dec-2025)
-- String creation techniques
-- String immutability
-- Common `String` class methods
-- Character-level processing and manipulation
-
----
-
-### Day 8 – Extra Built-in Functions & Advanced String Practice (23-Dec-2025)
-- Java built-in utility classes:
-  - `Math`
-  - `Random`
-- Java 8+ Date & Time API:
-  - `LocalDate`
-  - `LocalTime`
-  - `LocalDateTime`
-  - `ZonedDateTime`
-  - `DateTimeFormatter`
-- Advanced String handling:
-  - Escape sequences
-  - String arrays
-  - Strings as method parameters
-  - ASCII character codes
-- Java Exception Handling:
-  - Exception hierarchy
-  - Checked vs unchecked exceptions
-  - `RuntimeException`
-- Implemented utility-based programs (e.g., temperature converter)
-
----
-
-📌 **Note:**  
-Detailed, day-wise source code for the above progress is available in the `core-java-practice` branch.

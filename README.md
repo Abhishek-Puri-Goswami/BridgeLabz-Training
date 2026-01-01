@@ -148,7 +148,7 @@ BridgeLabz-Training/
 - Focused on logic and better user interface.
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
-👉 [Scenario Basic Logic Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day%2003)
+👉 [Scenario Based Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day%2003)
 
 ### 🗓 Day 12 – Scenario-based Practice  
 **(Date: 30-Dec-2025)**
@@ -156,7 +156,7 @@ BridgeLabz-Training/
 - Focused on logic and better user interface.
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
-👉 [Scenario Basic Logic Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day%2004)
+👉 [Scenario Based Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day%2004)
 
 ### 🗓 Day 13 – Scenario-based Practice  
 **(Date: 31-Dec-2025)**
@@ -164,7 +164,7 @@ BridgeLabz-Training/
 - Focused on logic and better user interface.
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
-👉 [Scenario Basic Logic Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day%2005)
+👉 [Scenario Based Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day%2005)
 
 ---
 ## 🧮 Section C : LeetCode-based Problems Progress
@@ -226,7 +226,7 @@ BridgeLabz-Training/
 👉 [LeetCode Math Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/basic-logic-math)
 
 ### 🗓 Day 16 – LeetCode-based Practice  
-**(Date: 30-Dec-2025)**
+**(Date: 31-Dec-2025)**
 - Practiced **6** math and basic logic problems.
 - Created driver-main method & taken user inputs.
 - Committed and pushed all solutions.
@@ -234,8 +234,9 @@ BridgeLabz-Training/
 👉 [LeetCode Math Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/basic-logic-math)
 
 ### 🗓 Day 17 – LeetCode-based Practice  
-**(Date: 31-Dec-2025)**
+**(Date: 01-Dec-2025)**
 - Practiced **2** bit-manipularion problems.
+- Practiced **3** methods problems.
 - Created driver-main method & taken user inputs.
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**

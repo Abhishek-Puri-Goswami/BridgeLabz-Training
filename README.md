@@ -150,6 +150,14 @@ BridgeLabz-Training/
 - 🔗 **Code Links:**  
 👉 [Scenario Basic Logic Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day%2003)
 
+### 🗓 Day 12 – Scenario-based Practice  
+**(Date: 30-Dec-2025)**
+- Practiced **5** scenario-based problems.
+- Focused on logic and better user interface.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Basic Logic Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day%2004)
+
 ---
 ## 🧮 Section C : LeetCode-based Problems Progress
 

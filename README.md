@@ -44,6 +44,7 @@ BridgeLabz-Training/
                     └── 📁 constructor/       # Constructor, access modifiers
                     └── 📁 finalandstatic/    # Keywords, instance vs class members
                     └── 📁 objectmodeling/    # Diagrams, relationships, communication
+                    └── 📁 inheritance/       # Types, method overriding, & access modifiers
 ```
 
 ---
@@ -71,6 +72,7 @@ BridgeLabz-Training/
 |  10 | 27-Dec      | Constructors & Static Concepts | Constructors, access modifiers, static |
 |  11 | 29-Dec      | `this`, `final`, `static`      | Keywords, instance vs class members    |
 |  12 | 30-Dec      | Object Modeling                | Diagrams, relationships, communication |
+|  13 | 31-Dec      | Inheritance & Types            | Types, method overriding, & modifiers  |
 
 ---
 
@@ -89,6 +91,7 @@ BridgeLabz-Training/
 -  **Encapsulation**: Data hiding and access modifiers
 -  **Constructors**: Default, parameterized, overloading
 -  **Abstraction**: Interface-based design patterns
+-  **Inheritance**: Parent and Chlid relations
 
 ---
 
@@ -110,12 +113,13 @@ BridgeLabz-Training/
 - 📌 [Constructors ](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/levelone)
 - 📌 [this, final, static, instanceof](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/finalandstatic)
 - 📌 [Object Modeling & Relations](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
+- 📌 [Inheritance & Types](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
 ---
 
 ## 🎓 Learnings & Best Practices
 
 -  **Code Organization**: Following industrial standards
--  **Naming Conventions**: Camel case and meaningful names
+-  **Naming Conventions**: Camel case, Pascal case and meaningful names
 -  **Version Control**: Regular commits with descriptive messages
 -  **Problem-Solving**: Breaking complex problems into smaller tasks
 -  **Documentation**: Clear comments and README files

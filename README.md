@@ -236,7 +236,7 @@ BridgeLabz-Training/
 ### 🗓 Day 17 – LeetCode-based Practice  
 **(Date: 01-Dec-2025)**
 - Practiced **2** bit-manipularion problems.
-- Practiced **3** methods problems.
+- Practiced **5** methods problems.
 - Created driver-main method & taken user inputs.
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**

@@ -18,6 +18,8 @@ BridgeLabz-Training/
 │   │   │   │   │   │── constructors/
 │   │   │   │   │   │── finalandstatic/
 │   │   │   │   │   │── objectmodeling/
+│   │   │   │   │   │── inheritance/
+│   │   │   │   │   │── encapsulation/
 |   |   
 │   │── leet-code-codebase/
 │   │── scenario-based-codebase/
@@ -86,6 +88,23 @@ BridgeLabz-Training/
 - Committed and pushed all work.
 - 🔗 **Code Link:**  
 👉 [Inheritance and Types](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+
+### 🗓 Day 14 – Java Encapsulation & Polymorphism
+**(Date: 01-Dec-2026)**
+- Studied Encapsulation & Polymorphism:
+  - Types of Polymorphism
+    - Compile-Time (Static) Polymorphism
+    - Runtime (Dynamic) Polymorphism
+  - Polymorphism with `interface`
+  - Polymorphism with `abstract` classes
+  - Casting and `instanceof` with Polymorphism
+- Practiced Abstract Classes & interfaces
+  - Abstract Class vs Interface
+  - Interface vs Class
+- Learned more about best practices. 
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [Encapsulation & Polymorphism](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
 
 ---
 ## 🧩 Section B : Scenario-Based Problems Progress

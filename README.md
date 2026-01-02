@@ -36,16 +36,18 @@ BridgeLabz-Training/
 │   └── 📁 scenario-based-codebase/    # Real-world problems
 │
 └── 📁 java-oops-practice/
-    └── 📁 gcr-codebase/
-        └── 📁 JavaOopsConcepts/
-            └── 📁 src/
-                └── 📁 com/
-                    ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
-                    └── 📁 constructor/       # Constructor, access modifiers
-                    └── 📁 finalandstatic/    # Keywords, instance vs class members
-                    └── 📁 objectmodeling/    # Diagrams, relationships, communication
-                    └── 📁 inheritance/       # Types, method overriding, & access modifiers
-                    └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
+│   └── 📁 gcr-codebase/
+│   │  └── 📁 JavaOopsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
+│   │               └── 📁 constructor/       # Constructor, access modifiers
+│   │               └── 📁 finalandstatic/    # Keywords, instance vs class members
+│   │               └── 📁 objectmodeling/    # Diagrams, relationships, communication
+│   │               └── 📁 inheritance/       # Types, method overriding, & access modifiers
+│   │               └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
 ```
 
 ---
@@ -95,6 +97,7 @@ BridgeLabz-Training/
 -  **Abstraction**: Interface-based design patterns
 -  **Inheritance**: Parent and Chlid relations
 -  **Polymorphism**: Method overloading and method overriding
+-  **Problem Solving**: LeetCode challenges, real-world scenarios
 ---
 
 ## 🔗 Quick Links
@@ -117,6 +120,8 @@ BridgeLabz-Training/
 - 📌 [Object Modeling & Relations](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
 - 📌 [Inheritance & Types](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
 - 📌 [Encapsulation & Polymorphism](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+- 📌 [LeetCode Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/leet-code-codebase)
+- 📌 [Scenario-Based Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase/ScenarioPractice/src/com)
 ---
 
 ## 🎓 Learnings & Best Practices

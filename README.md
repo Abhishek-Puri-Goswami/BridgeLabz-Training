@@ -12,18 +12,18 @@ BridgeLabz-Training/
 │── java-oops-practice/
 │   │── gcr-codebase/
 │   │   │── JavaOopsConcepts/
-│   │   │   │── src/
-│   │   │   │   │── com/
-│   │   │   │   │   │── classandobject/
-│   │   │   │   │   │── constructors/
-│   │   │   │   │   │── finalandstatic/
-│   │   │   │   │   │── objectmodeling/
-│   │   │   │   │   │── inheritance/
-│   │   │   │   │   │── encapsulation/
+│   │       │── src/
+│   │           │── com/
+│   │               │── classandobject/
+│   │               │── constructors/
+│   │               │── finalandstatic/
+│   │               │── objectmodeling/
+│   │               │── inheritance/
+│   │               │── encapsulation/
 |   |   
 │   │── leet-code-codebase/
 │   │── scenario-based-codebase/
-│   │── .gitignore
+│── .gitignore
 │── README.md
 ```
 - Studied basics of Object-Oriented Programming (OOP).
@@ -109,5 +109,21 @@ BridgeLabz-Training/
 ---
 ## 🧩 Section B : Scenario-Based Problems Progress
 
+### 🗓 Day 15 – Scenario-Based Practice  
+**(Date: 02-Jan-2026)**
+- Solved **5** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase/ScenarioPractice/src/com/day01)  
+
 ---
 ## 🧮 Section C : LeetCode-based Problems Progress
+
+### 🗓 Day 15 – LeetCode-based Practice  
+**(Date: 02-Jan-2026)**
+- Practiced **3** classes and objects based problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Class and Object Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/leet-code-codebase/classandobject)

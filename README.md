@@ -45,6 +45,7 @@ BridgeLabz-Training/
                     └── 📁 finalandstatic/    # Keywords, instance vs class members
                     └── 📁 objectmodeling/    # Diagrams, relationships, communication
                     └── 📁 inheritance/       # Types, method overriding, & access modifiers
+                    └── 📁 encapsulation/     # Abstract class, interface, & polymorphism
 ```
 
 ---
@@ -72,7 +73,8 @@ BridgeLabz-Training/
 |  10 | 27-Dec      | Constructors & Static Concepts | Constructors, access modifiers, static |
 |  11 | 29-Dec      | `this`, `final`, `static`      | Keywords, instance vs class members    |
 |  12 | 30-Dec      | Object Modeling                | Diagrams, relationships, communication |
-|  13 | 31-Dec      | Inheritance & Types            | Types, method overriding, & modifiers  |
+|  13 | 31-Dec      | Inheritance & Types            | Inheritance types and  access modifiers|
+|  14 | 01-Jan      | Encapsulation & Polymorphism   | Data hiding, polymorphism, interfaces  |
 
 ---
 
@@ -92,7 +94,7 @@ BridgeLabz-Training/
 -  **Constructors**: Default, parameterized, overloading
 -  **Abstraction**: Interface-based design patterns
 -  **Inheritance**: Parent and Chlid relations
-
+-  **Polymorphism**: Method overloading and method overriding
 ---
 
 ## 🔗 Quick Links
@@ -114,6 +116,7 @@ BridgeLabz-Training/
 - 📌 [this, final, static, instanceof](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/finalandstatic)
 - 📌 [Object Modeling & Relations](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling)
 - 📌 [Inheritance & Types](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+- 📌 [Encapsulation & Polymorphism](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
 ---
 
 ## 🎓 Learnings & Best Practices

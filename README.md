@@ -11,12 +11,31 @@
 BridgeLabz-Training/
 │── dsa-practice/
 │ 	│── gcr-codebase/
+|   |   |── DSAConcepts/
+|   |       |── src/
+|   |           |── com/
+|   |               |── linkedlists/
+|   |               |── stacks/
+|   |               |── queues/
+|   |               |── hashmaps/
+|   |
 │ 	│── leet-code-codebase/
 │ 	│── scenario-based-codebase/
 │── README.md
 ```
 - Studied basics of Data Structures & Algorithms (DSA).
 - Learned why DSA is used in modern applications.
+
+### 🗓 Day 16 – Stack, Queue & HashMap
+**(Date: 03-Jan-2026)**
+- Studied core data structures:
+  - Stack
+  - Queue
+  - HashMap
+- Understood basic operations and use cases of each.
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [Stack, Queue & HashMap](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/)
 
 ---
 ## 🧩 Section B : Scenario-Based Problems Progress

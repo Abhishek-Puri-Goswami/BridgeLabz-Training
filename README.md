@@ -143,3 +143,13 @@ BridgeLabz-Training/
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
 👉 [LeetCode Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/leet-code-codebase/constructors)
+
+### 🗓 Day 17 – LeetCode-based Practice  
+**(Date: 04-Jan-2026)**
+- Practiced **4** non-access modifiers problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/leet-code-codebase/finalandstatic)
+
+---

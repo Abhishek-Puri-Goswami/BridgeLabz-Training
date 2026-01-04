@@ -117,6 +117,14 @@ BridgeLabz-Training/
 - 🔗 **Code Links:**  
 👉 [Scenario Based Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase/ScenarioPractice/src/com/day01)  
 
+### 🗓 Day 16 – Scenario-Based Practice  
+**(Date: 03-Jan-2026)**
+- Solved **2** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/scenario-based-codebase/ScenarioPractice/src/com/day02)
+
 ---
 ## 🧮 Section C : LeetCode-based Problems Progress
 
@@ -126,4 +134,12 @@ BridgeLabz-Training/
 - Created driver-main method & taken user inputs.
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
-👉 [LeetCode Class and Object Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/leet-code-codebase/classandobject)
+👉 [LeetCode Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/leet-code-codebase/classandobject)
+
+### 🗓 Day 16 – LeetCode-based Practice  
+**(Date: 03-Jan-2026)**
+- Practiced **3** constructors problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/leet-code-codebase/constructors)

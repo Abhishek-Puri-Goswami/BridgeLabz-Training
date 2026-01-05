@@ -1,17 +1,17 @@
 package com.hashmaps.longestconsecutivesequence;
 
-import java.util.HashSet;
+import java.util.HashMap;
 
 public class LongestConsecutiveSequence {
 
 	// Finds length of longest consecutive sequence
 	public static int longestSequence(int[] arr) {
 
-		HashSet<Integer> set = new HashSet<>();
+		HashMap<Integer, Boolean> map = new HashMap<>();
 
 		// Store all elements in set
 		for (int num : arr) {
-			set.add(num);
+			map.put(num, true);
 		}
 
 		int longest = 0;
@@ -20,13 +20,13 @@ public class LongestConsecutiveSequence {
 		for (int num : arr) {
 
 			// Start counting only if it's the beginning
-			if (!set.contains(num - 1)) {
+			if (!map.containsKey(num - 1)) {
 
 				int currentNum = num;
 				int count = 1;
 
 				// Count consecutive numbers
-				while (set.contains(currentNum + 1)) {
+				while (map.containsKey(currentNum + 1)) {
 					currentNum++;
 					count++;
 				}

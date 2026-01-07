@@ -1,0 +1,4 @@
+Java is powerful
+File handling is important
+BufferedReader improves performance
+Java is Java right

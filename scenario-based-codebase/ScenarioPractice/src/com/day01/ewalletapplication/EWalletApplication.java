@@ -1,3 +1,20 @@
+/*
+4. E-Wallet Application
+Scenario: Users can register, load money, transfer funds, and view transaction history.
+Concepts Used:
+● Class: User, Wallet, Transaction
+● Constructors: Initialize wallets with optional referral bonus
+● Access Modifiers: Make balance private, expose via getBalance()
+● Interface: Transferrable with method transferTo(User receiver, double
+amount)
+● Operators: Used in deductions, taxes, referral credits
+● OOP:
+○ Encapsulation: Prevent direct manipulation of balance
+○ Abstraction: Expose only essential transaction methods
+○ Inheritance: PersonalWallet, BusinessWallet with different limits
+○ Polymorphism: Same transferTo() method but different business logic
+*/
+
 package com.day01.ewalletapplication;
 
 public class EWalletApplication {

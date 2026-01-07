@@ -167,4 +167,12 @@ BridgeLabz-Training/
 - Committed and pushed all solutions.
 - 🔗 **Code Links:**  
 👉 [LeetCode Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/leet-code-codebase/inheritance)
+
+### 🗓 Day 19 – LeetCode-based Practice  
+**(Date: 06-Jan-2026)**
+- Practiced **4** class object problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/leet-code-codebase/objectmodeling)
 ---

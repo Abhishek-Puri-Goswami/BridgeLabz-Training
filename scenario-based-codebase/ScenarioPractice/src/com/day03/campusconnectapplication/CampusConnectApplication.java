@@ -1,3 +1,18 @@
+/*
+8. "CampusConnect – College Information System"
+Story: Your university launches CampusConnect, a portal to manage students, teachers, and
+courses. You're developing the academic module.
+Requirements:
+● Person (base class): common fields like name, email, id.
+● Student and Faculty extend Person (use inheritance).
+● ICourseActions interface with methods like enrollCourse() and dropCourse().
+● Course class has a list of students and a faculty assigned.
+● Use constructors to initialize students and courses.
+● Use access modifiers: student grades must be private.
+● Use operators to calculate GPA based on grades.
+● Polymorphism: printDetails() works differently for Student and Faculty.
+*/
+
 package com.day03.campusconnectapplication;
 
 import java.util.Scanner;

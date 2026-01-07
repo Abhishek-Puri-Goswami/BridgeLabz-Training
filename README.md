@@ -63,6 +63,7 @@ BridgeLabz-Training/
 │   │               └── 📁 hashmaps/          # Key-Value pairs
 │   │               └── 📁 sorting/           # Sorting algorithms
 │   │               └── 📁 searching/         # Searching algorithms
+│   │               └── 📁 analysis/          # Runtime Analysis & Big-O Notation
 │   ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
 |
@@ -105,6 +106,7 @@ BridgeLabz-Training/
 |  16 | 03-Jan      | Stack, Queue & HashMap         | Core operations and basic use cases    |
 |  17 | 05-Jan      | Sorting Algorithms             | Sorting algorithms & comparison logic  |
 |  18 | 06-Jan      | Searching & I/O utilities      | Linear & Binary Search and FileReader  |
+|  19 | 07-Jan      | Runtime Analysis & Big-O       | Time & space complexity analysis       |
 
 ---
 
@@ -137,7 +139,8 @@ BridgeLabz-Training/
 - **Searching**: Linear Search and Binary Search algorithms
 - **String Utilities**: `StringBuilder` and `StringBuffer` for mutable strings
 - **File Handling**: Reading input using `FileReader` and `InputStreamReader`
-
+- **Algorithm Analysis**: Big-O notation, time complexity, space complexity, best, worst, and average case evaluation.
+  
 ---
 
 ## 🔗 Quick Links
@@ -170,6 +173,7 @@ BridgeLabz-Training/
 - 📌 [HashMaps](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmaps)
 - 📌 [Sorting Algorithms](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
 - 📌 [Searching Algorithms, String & I/O utilities](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/searching)
+- 📌 [Time & Space Complexity Analysis](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/analysis)
 
 ---
 

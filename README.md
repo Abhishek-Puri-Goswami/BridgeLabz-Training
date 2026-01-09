@@ -208,4 +208,12 @@ BridgeLabz-Training/
 - 🔗 **Code Links:**  
 👉 [LeetCode Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/leet-code-codebase/encapsulation)
 
+### 🗓 Day 21 – LeetCode-based Practice  
+**(Date: 08-Jan-2026)**
+- Practiced **2** polymorphism problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-oops-practice/leet-code-codebase/polymorphism)
+
 ---

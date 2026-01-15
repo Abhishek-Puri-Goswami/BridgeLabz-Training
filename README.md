@@ -147,6 +147,14 @@ BridgeLabz-Training/
 - 🔗 **Code Links:**  
 👉 [Scenario Based Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/ScenarioPracticeDSA/src/com/day03)
 
+### 🗓 Day 23 – Scenario-Based Practice  
+**(Date: 15-Jan-2026)**
+- Solved **5** scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [Scenario Based Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/ScenarioPracticeDSA/src/com/day04)
+
 ---
 ## 🧮 Section C : LeetCode-based Problems Progress
 

@@ -19,6 +19,9 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### 🔹 [dsa-practice](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice)
 **Week 3** : Data Structures & Algorithms
 
+### 🔹 [java-collections-practice](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice)
+**Week 4** : Collections Framework in Java
+
 ---
 
 ## 📂 Project Structure
@@ -39,7 +42,7 @@ BridgeLabz-Training/
 │   └── 📁 scenario-based-codebase/    # Real-world problems
 │
 └── 📁 java-oops-practice/
-│   └── 📁 gcr-codebase/
+│   ├── 📁 gcr-codebase/
 │   │  └── 📁 JavaOopsConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
@@ -53,7 +56,7 @@ BridgeLabz-Training/
 │   └── 📁 scenario-based-codebase/           # Real-world problems
 |
 └── 📁 dsa-practice/
-│   └── 📁 gcr-codebase/
+│   ├── 📁 gcr-codebase/
 │   │  └── 📁 DSAConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
@@ -66,6 +69,11 @@ BridgeLabz-Training/
 │   │               └── 📁 analysis/          # Runtime Analysis & Big-O Notation
 │   ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
+|
+└── 📁 java-collections-practice/
+│   ├── 📁 gcr-codebase/
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based-codebase/
 |
 └── README.md
 ```
@@ -110,6 +118,11 @@ BridgeLabz-Training/
 |  20 | 13-Jan      | Trees & Binary Search Trees    | Basics, types and CRUD operations      |
 |  21 | 15-Jan      | Graphs (DFS & BFS)             | Basics and traversal algorithms        |
 
+### **Week 4 : Collections Framework in Java**
+| Day |     Date    | Topic                          | Coverage                               |
+|-----|-------------|--------------------------------|----------------------------------------|
+|     |             |                                |                                        |
+
 ---
 
 ##  Key Concepts Covered
@@ -144,6 +157,8 @@ BridgeLabz-Training/
 - **Algorithm Analysis**: Big-O notation, time complexity, space complexity, best, worst, and average case evaluation.
 - **Trees & BST**: Tree terminology, traversal techniques, Binary Search Tree operations, and real-world applications.
 - **Graphs (DFS & BFS)**: Graph representations, DFS, BFS, and traversal-based problem solving.
+
+### Collections Framework (java-collections-practice)
 
 ---
 
@@ -180,6 +195,8 @@ BridgeLabz-Training/
 - 📌 [Time & Space Complexity Analysis](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/analysis)
 - 📌 [LeetCode Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/leet-code-codebase)
 - 📌 [Scenario-Based Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/ScenarioPracticeDSA/src/com)
+
+### `java-collections-practice` :
 
 ---
 

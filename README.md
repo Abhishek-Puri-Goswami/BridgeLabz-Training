@@ -93,6 +93,32 @@ BridgeLabz-Training/
 - 🔗 **Code Link:**  
 👉 [Runtime Analysis & Big-O Notation](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/analysis)
 
+### 🗓 Day 20 – Trees & Binary Search Trees  
+**(Date: 13-Jan-2026)**
+- Studied Tree fundamentals:
+  - Tree as a hierarchical, non-linear data structure
+  - Real-world examples (file system, organization chart, family tree, DOM)
+- Learned Tree terminologies:
+  - Node, Root, Parent, Child, Siblings
+  - Leaf, Internal Node, Edge, Path, Subtree
+  - Ancestor, Descendant, Degree, Depth, Level, Height
+- Studied types of trees:
+  - Binary Tree
+  - Full Binary Tree
+  - Complete Binary Tree
+  - Perfect Binary Tree
+  - Balanced Binary Tree
+- Studied Tree Traversal algorithms:
+  - Inorder (Left → Root → Right)
+  - Preorder (Root → Left → Right)
+  - Postorder (Left → Right → Root)
+  - Level Order (Breadth-First)
+- Studied Binary Search Trees (BST):
+  - BST properties and validation
+  - Searching in BST
+  - Insertion in BST
+  - Deletion in BST (leaf, one child, two children)
+- Learned advantages, disadvantages, and applications of BST.
 
 ---
 ## 🧩 Section B : Scenario-Based Problems Progress

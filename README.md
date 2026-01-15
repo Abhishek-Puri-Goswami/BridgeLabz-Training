@@ -120,6 +120,23 @@ BridgeLabz-Training/
   - Deletion in BST (leaf, one child, two children)
 - Learned advantages, disadvantages, and applications of BST.
 
+### 🗓 Day 21 – Graphs, DFS & BFS  
+**(Date: 15-Jan-2026)**
+- Introduction to graphs and graph theory  
+- Vertices, edges, degree, path, and cycle  
+- Types of graphs:
+  - Directed and undirected  
+  - Weighted and unweighted  
+  - Connected and disconnected  
+- Graph representations:
+  - Adjacency List  
+  - Adjacency Matrix  
+- Graph traversal techniques:
+  - Depth First Search (DFS)  
+  - Breadth First Search (BFS)  
+- Applications of DFS and BFS  
+- Basic graph-based problem solving  
+
 ---
 ## 🧩 Section B : Scenario-Based Problems Progress
 

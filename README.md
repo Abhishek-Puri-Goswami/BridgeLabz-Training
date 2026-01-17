@@ -232,4 +232,12 @@ BridgeLabz-Training/
 - 🔗 **Code Links:**  
 👉 [LeetCode Problems - Strings](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/leet-code-codebase/strings)
 
+### 🗓 Day 26 – LeetCode-based Practice  
+**(Date: 16-Jan-2026)**
+- Practiced **3** DSA problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Problems - LinkedLists](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/leet-code-codebase/linkedlists)
+
 ---

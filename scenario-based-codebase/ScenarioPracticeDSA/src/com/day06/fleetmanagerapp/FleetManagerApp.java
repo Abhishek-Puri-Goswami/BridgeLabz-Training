@@ -1,3 +1,15 @@
+/*
+10. FleetManager – Vehicle Maintenance Scheduler (Merge Sort)
+Story: 
+	● A fleet company schedules vehicle maintenance based on mileage. 
+	● Each depot sends a sorted list of vehicles. 
+	● To create a master schedule, Merge Sort is used to combine these depot lists efficiently.
+Key Concepts:
+	● Sorted sublists from multiple sources
+	● Merge sort for final master list
+	● Efficient memory usage for large lists
+*/
+
 package com.day06.fleetmanagerapp;
 
 public class FleetManagerApp {

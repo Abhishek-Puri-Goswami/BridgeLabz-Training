@@ -1,3 +1,15 @@
+/*
+9. ArtExpo – Sort Artists by Registration Time (Insertion Sort)
+Story: 
+	● At an art exhibition, artists register throughout the day. 
+	● The system continuously adds each entry and maintains a sorted list by registration time for booth assignment. 
+	● Insertion Sort fits well due to the incremental nature.
+Key Concepts:
+	● Real-time insertion
+	● Nearly sorted data
+	● Time-based ordering
+*/
+
 package com.day06.artexpoapp;
 
 import java.time.LocalTime;

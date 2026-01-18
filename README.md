@@ -72,6 +72,11 @@ BridgeLabz-Training/
 |
 └── 📁 java-collections-practice/
 │   ├── 📁 gcr-codebase/
+│   │  └── 📁 CollectionsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               └── 📁 generics/          # 
+|   |
 │   ├── 📁 leet-code-codebase/
 │   └── 📁 scenario-based-codebase/
 |
@@ -119,9 +124,9 @@ BridgeLabz-Training/
 |  21 | 15-Jan      | Graphs (DFS & BFS)             | Basics and traversal algorithms        |
 
 ### **Week 4 : Collections Framework in Java**
-| Day |     Date    | Topic                          | Coverage                               |
-|-----|-------------|--------------------------------|----------------------------------------|
-|     |             |                                |                                        |
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 22  | 16-Jan      | Java Generics                  | Generic classes, methods, type parameters, bounded types, wildcards |
 
 ---
 
@@ -154,11 +159,12 @@ BridgeLabz-Training/
 - **Searching**: Linear Search and Binary Search algorithms
 - **String Utilities**: `StringBuilder` and `StringBuffer` for mutable strings
 - **File Handling**: Reading input using `FileReader` and `InputStreamReader`
-- **Algorithm Analysis**: Big-O notation, time complexity, space complexity, best, worst, and average case evaluation.
-- **Trees & BST**: Tree terminology, traversal techniques, Binary Search Tree operations, and real-world applications.
-- **Graphs (DFS & BFS)**: Graph representations, DFS, BFS, and traversal-based problem solving.
+- **Algorithm Analysis**: Big-O notation, time complexity, space complexity, best, worst, and average case evaluation
+- **Trees & BST**: Tree terminology, traversal techniques, Binary Search Tree operations, and real-world applications
+- **Graphs (DFS & BFS)**: Graph representations, DFS, BFS, and traversal-based problem solving
 
 ### Collections Framework (java-collections-practice)
+- **Generics**: Type-safe collections, generic classes and methods, type parameters, bounded types, wildcards, type erasure
 
 ---
 
@@ -197,6 +203,7 @@ BridgeLabz-Training/
 - 📌 [Scenario-Based Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/ScenarioPracticeDSA/src/com)
 
 ### `java-collections-practice` :
+- 📌 [Generics](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/generics)
 
 ---
 

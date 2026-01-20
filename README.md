@@ -81,6 +81,7 @@ BridgeLabz-Training/
 │   │               └── 📁 queueinterface/    # Queue & Deque interface examples
 │   │               └── 📁 mapinterface/      # Map interface and implementations
 │   │               └── 📁 examples/          # Hands-on example programs
+│   │               └── 📁 streams/           # I/O streams, buffering, and serialization
 |   |
 │   ├── 📁 leet-code-codebase/
 │   └── 📁 scenario-based-codebase/
@@ -132,6 +133,7 @@ BridgeLabz-Training/
 |-----|-------------|--------------------------------|---------------------------------------------------------------------|
 | 22  | 16-Jan      | Java Generics                  | Generic classes, methods, type parameters, bounded types, wildcards |
 | 23  | 17-Jan      | Collections Framework          | Collection hierarchy, List, Set, Queue, Map, implementations        |
+| 24  | 19-Jan      | Java I/O Streams               | Byte, character, buffered, object & bridge streams                  |
 
 ---
 
@@ -177,6 +179,7 @@ BridgeLabz-Training/
 - **Map Implementations**: `HashMap`, `LinkedHashMap`, `TreeMap`, `Hashtable`
 - **Queue & Deque**: `PriorityQueue`, `ArrayDeque`
 - **Hands-on Practice**: CRUD, iteration, ordering, and performance examples
+- **I/O Streams**: Byte & character streams, buffering, object serialization, and efficient file handling
 
 ---
 
@@ -221,6 +224,8 @@ BridgeLabz-Training/
 - 📌 [Queue Interface](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/queueinterface)
 - 📌 [Map Interface](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/mapinterface)
 - 📌 [Example Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/examples)
+- 📌 [I/O Streams](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/streams)
+
 ---
 
 ## 🎓 Learnings & Best Practices

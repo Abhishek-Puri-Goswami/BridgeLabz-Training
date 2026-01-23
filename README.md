@@ -83,6 +83,8 @@ BridgeLabz-Training/
 │   │               └── 📁 examples/          # Hands-on example programs
 │   │               └── 📁 streams/           # I/O streams, buffering, and serialization
 │   │               └── 📁 exceptionhandling/ # Checked, unchecked, custom exceptions, try-with-resources
+│   │               └── 📁 regex/             # Pattern matching, validation rules, groups & quantifiers
+│   │               └── 📁 junit/             # Unit testing, assertions, test lifecycle, test cases
 |   |
 │   ├── 📁 leet-code-codebase/
 │   └── 📁 scenario-based-codebase/
@@ -136,6 +138,7 @@ BridgeLabz-Training/
 | 23  | 17-Jan      | Collections Framework          | Collection hierarchy, List, Set, Queue, Map, implementations        |
 | 24  | 19-Jan      | Java I/O Streams               | Byte, character, buffered, object & bridge streams                  |
 | 25  | 20-Jan      | Exception Handling             | Checked, unchecked, custom exceptions, try(resources) & nested      |
+| 26  | 21-Jan      | Regex & JUnit Testing          | Pattern matching, validations, groups, unit testing, assertions     | 
 
 ---
 
@@ -183,6 +186,7 @@ BridgeLabz-Training/
 - **Hands-on Practice**: CRUD, iteration, ordering, and performance examples
 - **I/O Streams**: Byte & character streams, buffering, object serialization, and efficient file handling
 - **Exception Handling**: Checked vs unchecked exceptions, `try-catch-finally`, multiple and nested catch blocks, `throw` vs `throws`, custom exceptions, try-with-resources
+- **Regex & JUnit Testing**: Pattern matching, validation rules, groups, quantifiers, unit tests, assertions, test lifecycle
 
 ---
 
@@ -229,6 +233,8 @@ BridgeLabz-Training/
 - 📌 [Example Problems](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/examples)
 - 📌 [I/O Streams](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/streams)
 - 📌 [Exception Handling](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/exceptionhandling)
+- 📌 [Regex - Regular Expressions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/regex)
+- 📌 [JUnit Testing](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/junit)
 
 ---
 

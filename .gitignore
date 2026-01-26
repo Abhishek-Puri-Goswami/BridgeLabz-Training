@@ -42,6 +42,7 @@ out/
 *.bin
 *.out
 *.dump
+*.json
 *.csv
 *.ser
 *.tsv

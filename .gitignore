@@ -43,6 +43,7 @@ out/
 *.out
 *.dump
 *.csv
+*.ser
 *.tsv
 *.xlsx
 *.xls

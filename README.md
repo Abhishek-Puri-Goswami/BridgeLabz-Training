@@ -22,6 +22,9 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### 🔹 [java-collections-practice](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice)
 **Week 4** : Collections Framework in Java
 
+### 🔹 [java-iostreams-practice](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-iostreams-practice)
+**Week 5** : Java I/O Streams
+
 ---
 
 ## 📂 Project Structure
@@ -73,7 +76,7 @@ BridgeLabz-Training/
 │   ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
 |
-└── 📁 java-collections-practice/
+├── 📁 java-collections-practice/
 │   ├── 📁 gcr-codebase/
 │   │  └── 📁 CollectionsConcepts/
 │   │       └── 📁 src/
@@ -91,8 +94,17 @@ BridgeLabz-Training/
 │   │               ├── 📁 reflection/        # Runtime inspection, dynamic invocation, proxies
 │   │               └── 📁 annotations/       # Built-in & custom annotations, processors
 |   |
-│   ├── 📁 leet-code-codebase/
-│   └── 📁 scenario-based-codebase/
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+|
+├── 📁 java-iostreams-practice/
+│   ├── 📁 gcr-codebase/
+│   │  └── 📁 IOStreamsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+|   |
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
 |
 └── README.md
 ```
@@ -146,6 +158,10 @@ BridgeLabz-Training/
 | 26  | 21-Jan      | Regex & JUnit Testing          | Pattern matching, validations, groups, unit testing, assertions     |
 | 27  | 22-Jan      | Annotations & Reflection       | Built-in & custom annotations, runtime inspection, proxies          |
 
+### **Week 5 : Java I/O Streams**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+
 ---
 
 ##  Key Concepts Covered
@@ -195,6 +211,9 @@ BridgeLabz-Training/
 - **Regex & JUnit Testing**: Pattern matching, validation rules, groups, quantifiers, unit tests, assertions, test lifecycle
 - **Reflection**: Runtime class inspection, private member access, dynamic invocation, constructors, proxies, annotation processing 
 - **Annotations**: Built-in annotations, meta-annotations, custom annotations, retention policies, processors, framework usage 
+
+### Java I/O Streams (java-iostreams-practice)
+-
 
 ---
 
@@ -246,6 +265,9 @@ BridgeLabz-Training/
 - 📌 [Reflection](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/reflection)
 - 📌 [Annotations](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/gcr-codebase/CollectionsConcepts/src/com/annotations)
 - 📌 [Scenario-Based Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/scenario-based-codebase/ScenarioPracticeCollections/src/com)
+
+### `java-iostreams-practice` :
+- 📌 
 
 ---
 

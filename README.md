@@ -102,6 +102,7 @@ BridgeLabz-Training/
 │   │  └── 📁 IOStreamsConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
+│   │               └── 📁 csvdata/           # CSV reading/writing, validation, and large-file handling
 |   |
 │   ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
@@ -161,6 +162,7 @@ BridgeLabz-Training/
 ### **Week 5 : Java I/O Streams**
 | Day |     Date    | Topic                          | Coverage                                                            |
 |-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 28  | 23-Jan      | CSV Data Handling in Java      | Read/write CSV, validation, large-file processing, dataset merging  |
 
 ---
 
@@ -213,7 +215,7 @@ BridgeLabz-Training/
 - **Annotations**: Built-in annotations, meta-annotations, custom annotations, retention policies, processors, framework usage 
 
 ### Java I/O Streams (java-iostreams-practice)
--
+- **CSV Data Handling**: Reading/writing CSV files, OpenCSV usage, data validation, object mapping, and large-file handling
 
 ---
 
@@ -267,7 +269,7 @@ BridgeLabz-Training/
 - 📌 [Scenario-Based Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/scenario-based-codebase/ScenarioPracticeCollections/src/com)
 
 ### `java-iostreams-practice` :
-- 📌 
+- 📌 [CSV Data Handling](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/csvdata)
 
 ---
 

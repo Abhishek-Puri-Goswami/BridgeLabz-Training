@@ -25,6 +25,10 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### 🔹 [java-iostreams-practice](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-iostreams-practice)
 **Week 5** : Java I/O Streams
 
+### 🔹 [java8-programming-practice](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java8-programming-practice)
+**Week 6** : Java 8 Features
+
+
 ---
 
 ## 📂 Project Structure
@@ -108,6 +112,18 @@ BridgeLabz-Training/
 │   ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
 |
+├── 📁 java8-programming-practice/
+│   ├── 📁 gcr-codebase/
+│   │  └── 📁 Java8Concepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 lambdas/           # Lambda expressions, functional interfaces, syntax
+│   │               └── 📁 methodreferences/  # Static, instance, constructor references
+│   │               └── 📁 interfaces/        # Default methods, static methods, functional interfaces
+|   |
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+|
 └── README.md
 ```
 ---
@@ -166,6 +182,12 @@ BridgeLabz-Training/
 | 28  | 23-Jan      | CSV Data Handling in Java      | Read/write CSV, validation, large-file processing, dataset merging  |
 | 29  | 24-Jan      | JSON Data Handling in Java     | JSON parsing, POJO mapping, schema validation, CSV to JSON, etc.    |
 
+### **Week 6 : Java 8 Features**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 30  | 27-Jan      | Lambdas & Interfaces           | Lambdas, functional interfaces, method references                   |
+
+
 ---
 
 ##  Key Concepts Covered
@@ -200,6 +222,7 @@ BridgeLabz-Training/
 - **Algorithm Analysis**: Big-O notation, time complexity, space complexity, best, worst, and average case evaluation
 - **Trees & BST**: Tree terminology, traversal techniques, Binary Search Tree operations, and real-world applications
 - **Graphs (DFS & BFS)**: Graph representations, DFS, BFS, and traversal-based problem solving
+  **Problem Solving**: LeetCode challenges, real-world scenarios
 
 ### Collections Framework (java-collections-practice)
 - **Generics**: Type-safe collections, generic classes and methods, type parameters, bounded types, wildcards, type erasure
@@ -215,10 +238,17 @@ BridgeLabz-Training/
 - **Regex & JUnit Testing**: Pattern matching, validation rules, groups, quantifiers, unit tests, assertions, test lifecycle
 - **Reflection**: Runtime class inspection, private member access, dynamic invocation, constructors, proxies, annotation processing 
 - **Annotations**: Built-in annotations, meta-annotations, custom annotations, retention policies, processors, framework usage 
+  **Problem Solving**: LeetCode challenges, real-world scenarios
 
 ### Java I/O Streams (java-iostreams-practice)
 - **CSV Data Handling**: Reading/writing CSV files, OpenCSV usage, data validation, object mapping, and large-file handling
 - **JSON Data Handling**: JSON creation, parsing, POJO mapping, schema validation, merging datasets, CSV to JSON conversion
+
+### Java 8 Features (java8-programming-practice)
+- **Lambda Expressions**: Functional programming syntax and usage
+- **Functional Interfaces**: `Predicate`, `Function`, `Consumer`, `Supplier`
+- **Method References**: Static, instance, and constructor references
+- **Interface Enhancements**: Default and static methods
 
 ---
 
@@ -274,6 +304,11 @@ BridgeLabz-Training/
 ### `java-iostreams-practice` :
 - 📌 [CSV Data Handling](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/csvdata)
 - 📌 [JSON Data Handling](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/jsondata)
+
+### `java8-programming-practice` :
+- 📌 [Lambda Expressions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/lambdas)
+- 📌 [Method References](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/methodreferences)
+- 📌 [Interfaces](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/interfaces)
 
 ---
 

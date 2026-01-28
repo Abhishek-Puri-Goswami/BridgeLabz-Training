@@ -194,4 +194,12 @@ BridgeLabz-Training/
 ---
 ## 🧮 Section C : LeetCode-based Problems Progress
 
+### 🗓 Day 28 – LeetCode-based Practice  
+**(Date: 27-Jan-2026)**
+- Practiced **2** collection problems.
+- Created driver-main method & taken user inputs.
+- Committed and pushed all solutions.
+- 🔗 **Code Links:**  
+👉 [LeetCode Problems - Set](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-collections-practice/leet-code-codebase/set)
+
 ---

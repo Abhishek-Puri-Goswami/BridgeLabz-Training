@@ -16,7 +16,10 @@ BridgeLabz-Training/
 |   |           └── com/
 |   |               ├── lambdas/
 |   |               ├── methodreferences/
-|   |               └── interfaces/
+|   |               ├── interfaces/
+|   |               ├── streams/
+|   |               ├── collectors/
+|   |               └── workshop/
 |   |
 │ 	│── leet-code-codebase/
 │ 	└── scenario-based-codebase/

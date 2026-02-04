@@ -28,6 +28,8 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### 🔹 [java8-programming-practice](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java8-programming-practice)
 **Week 6** : Java 8 Features
 
+### 🔹 [java-design-pattern-practice](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-design-pattern-practice)
+**Week 7** : Java Design Principles & Design Patterns
 
 ---
 
@@ -51,7 +53,7 @@ BridgeLabz-Training/
 │
 ├── 📁 java-oops-practice/
 │   ├── 📁 gcr-codebase/
-│   │  └── 📁 JavaOopsConcepts/
+│   │   └── 📁 JavaOopsConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
 │   │               ├── 📁 classandobject/    # Procedural vs OOP, fundamentals
@@ -66,7 +68,7 @@ BridgeLabz-Training/
 |
 ├── 📁 dsa-practice/
 │   ├── 📁 gcr-codebase/
-│   │  └── 📁 DSAConcepts/
+│   │   └── 📁 DSAConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
 │   │               ├── 📁 linkedlists/       # singly, doubly & circular
@@ -82,7 +84,7 @@ BridgeLabz-Training/
 |
 ├── 📁 java-collections-practice/
 │   ├── 📁 gcr-codebase/
-│   │  └── 📁 CollectionsConcepts/
+│   │   └── 📁 CollectionsConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
 │   │               ├── 📁 generics/          # Generic classes, methods, wildcards
@@ -103,7 +105,7 @@ BridgeLabz-Training/
 |
 ├── 📁 java-iostreams-practice/
 │   ├── 📁 gcr-codebase/
-│   │  └── 📁 IOStreamsConcepts/
+│   │   └── 📁 IOStreamsConcepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
 │   │               ├── 📁 csvdata/           # CSV reading/writing, validation, and large-file handling
@@ -114,15 +116,25 @@ BridgeLabz-Training/
 |
 ├── 📁 java8-programming-practice/
 │   ├── 📁 gcr-codebase/
-│   │  └── 📁 Java8Concepts/
+│   │   └── 📁 Java8Concepts/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
 │   │               ├── 📁 lambdas/           # Lambda expressions, functional interfaces, syntax
-│   │               └── 📁 methodreferences/  # Static, instance, constructor references
-│   │               └── 📁 interfaces/        # Default methods, static methods, functional interfaces
-│   │               └── 📁 streams/           # Stream API, intermediate & terminal operations
-│   │               └── 📁 collectors/        # Grouping, partitioning, summarizing collectors
+│   │               ├── 📁 methodreferences/  # Static, instance, constructor references
+│   │               ├── 📁 interfaces/        # Default methods, static methods, functional interfaces
+│   │               ├── 📁 streams/           # Stream API, intermediate & terminal operations
+│   │               ├── 📁 collectors/        # Grouping, partitioning, summarizing collectors
 │   │               └── 📁 workshop/          # Mini projects & real-world stream problems
+|   |
+│   ├── 📁 leet-code-codebase/                # LeetCode solutions
+│   └── 📁 scenario-based-codebase/           # Real-world problems
+|
+├── 📁 java-design-pattern-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 DesignConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 designprinciples/  # SOLID principles and design patterns
 |   |
 │   ├── 📁 leet-code-codebase/                # LeetCode solutions
 │   └── 📁 scenario-based-codebase/           # Real-world problems
@@ -191,6 +203,11 @@ BridgeLabz-Training/
 | 30  | 27-Jan      | Lambdas & Interfaces           | Lambdas, functional interfaces, method references                   |
 | 31  | 28-Jan      | Streams & Collectors           | Stream API, intermediate, terminal, collectors, parallel streams    |
 
+### **Week 7 : Java Design Principles & Design Patterns**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 32  | 31-Jan      | Design Principles & Patterns   | SOLID, DRY, YAGNI, KISS, GoF patterns, clean code principles        |
+
 ---
 
 ##  Key Concepts Covered
@@ -225,7 +242,7 @@ BridgeLabz-Training/
 - **Algorithm Analysis**: Big-O notation, time complexity, space complexity, best, worst, and average case evaluation
 - **Trees & BST**: Tree terminology, traversal techniques, Binary Search Tree operations, and real-world applications
 - **Graphs (DFS & BFS)**: Graph representations, DFS, BFS, and traversal-based problem solving
-  **Problem Solving**: LeetCode challenges, real-world scenarios
+- **Problem Solving**: LeetCode challenges, real-world scenarios
 
 ### Collections Framework (java-collections-practice)
 - **Generics**: Type-safe collections, generic classes and methods, type parameters, bounded types, wildcards, type erasure
@@ -241,7 +258,7 @@ BridgeLabz-Training/
 - **Regex & JUnit Testing**: Pattern matching, validation rules, groups, quantifiers, unit tests, assertions, test lifecycle
 - **Reflection**: Runtime class inspection, private member access, dynamic invocation, constructors, proxies, annotation processing 
 - **Annotations**: Built-in annotations, meta-annotations, custom annotations, retention policies, processors, framework usage 
-  **Problem Solving**: LeetCode challenges, real-world scenarios
+- **Problem Solving**: LeetCode challenges, real-world scenarios
 
 ### Java I/O Streams (java-iostreams-practice)
 - **CSV Data Handling**: Reading/writing CSV files, OpenCSV usage, data validation, object mapping, and large-file handling
@@ -255,6 +272,12 @@ BridgeLabz-Training/
 - **Streams API**: Lazy evaluation, pipelines, parallel streams
 - **Collectors**: Grouping, partitioning, summarization, joining
 - **Workshop**: Real-world data processing using streams
+- **Problem Solving**: LeetCode challenges, real-world scenarios
+
+### Java Design Principles & Design Patterns (java-design-pattern-practice)
+- **Design Principles**: SOLID, DRY, KISS, YAGNI, composition over inheritance
+- **Design Patterns**: Singleton, Factory, Observer, Builder
+- **Clean Code Practices**: Object Calisthenics, interface-driven design
 
 ---
 
@@ -318,6 +341,9 @@ BridgeLabz-Training/
 - 📌 [Streams](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/streams)
 - 📌 [Collectors](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/collectors)
 - 📌 [Workshop](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/workshop)
+
+### `java-design-pattern-practice` :
+- 📌 [Design Principles & Patterns](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/designprinciples)
 
 ---
 

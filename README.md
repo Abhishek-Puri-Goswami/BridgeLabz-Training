@@ -1,6 +1,6 @@
 # BridgeLabz Training Journey
 
-> A comprehensive Java programming training repository covering Core Java fundamentals to Object-Oriented Programming concepts.
+> A comprehensive Java programming training repository covering Core Java fundamentals, Object-Oriented Programming, DSA, Collections, IO Streams, Java 8 Concepts, Java Design and Pattern and Multi-Threading.
 
 ##  Training Overview
 

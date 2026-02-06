@@ -283,6 +283,7 @@ BridgeLabz-Training/
 - **Multithreading**: Thread lifecycle, creation using Thread & Runnable, priorities, daemon threads
 - **Synchronization**: Locks, shared resource handling, race-condition prevention
 - **Concurrency Testing**: JUnit validation, timing logs, performance comparison
+-  **Problem Solving**: LeetCode challenges, real-world scenarios
 
 ---
 
@@ -350,6 +351,7 @@ BridgeLabz-Training/
 ### `java-design-pattern-practice` :
 - 📌 [Design Principles & Patterns](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/designprinciples)
 - 📌 [Multithreading](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-design-pattern-practice/gcr-codebase/DesignConcepts/src/com/multithreading)
+- 📌 [Scenario-Based Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/java-design-pattern-practice/scenario-based-codebase/ScenarioPracticeDesign/src/com)
 
 ---
 

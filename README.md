@@ -314,7 +314,7 @@ BridgeLabz-Training/
 - **SQL Commands**: DDL, DML, DQL, DCL, TCL
 - **Joins**: Inner, outer, cross, self joins
 - **Advanced Queries**: Subqueries, CTEs, window functions
-- **Indexing**: Clustered, non-clustered, composite, full-text
+- **Indexing**: Clustered, non-clustered, composite, full-text, unique
 - **Query Optimization**: Execution plans, `EXPLAIN`, tuning strategies
 
 ---

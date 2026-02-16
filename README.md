@@ -148,10 +148,14 @@ BridgeLabz-Training/
 │   │   └── 📁 DBMSJDBCConcepts/
 │   │       ├── 📁 src/
 │   │       │   └── 📁 main/
-│   │       │       └── 📁 resources/
+│   │       │       ├── 📁 resources/
+│   │       │       │   └── 📁 com/
+│   │       │       │       └── 📁 dbmsjdbc/
+│   │       │       │           └── 📁 sql/         # SQL scripts, DBMS fundamentals & MySQL DB
+│   │       │       └── 📁 java/
 │   │       │           └── 📁 com/
 │   │       │               └── 📁 dbmsjdbc/
-│   │       │                   └── 📁 sql/         # SQL scripts, DBMS fundamentals & MySQL DB
+│   │       │                   └── 📁 jdbc/        # JDBC programs & DAO layer
 │   │       │
 │   │       └── pom.xml                             # Maven configuration and dependency management
 │   │
@@ -232,6 +236,7 @@ BridgeLabz-Training/
 | Day |     Date    | Topic                          | Coverage                                                            |
 |-----|-------------|--------------------------------|---------------------------------------------------------------------|
 | 34  | 06-Feb      | DBMS & SQL Optimization        | Normalization, joins, transactions, indexes, tuning & EXPLAIN       |
+| 35  | 09-Feb      | JDBC Fundamentals, Connectivity| JDBC architecture, CRUD operations, transactions, DAO/DTO patterns  |
 
 ---
 
@@ -316,6 +321,10 @@ BridgeLabz-Training/
 - **Advanced Queries**: Subqueries, CTEs, window functions
 - **Indexing**: Clustered, non-clustered, composite, full-text, unique
 - **Query Optimization**: Execution plans, `EXPLAIN`, tuning strategies
+- **JDBC Architecture**: DriverManager, Connection, Statement APIs
+- **Database Operations**: CRUD using PreparedStatement
+- **Transactions**: Commit, rollback, savepoints, auto-commit handling
+- **Design Patterns**: DAO and DTO for database applications
 
 ---
 
@@ -387,6 +396,7 @@ BridgeLabz-Training/
 
 ### `dbms-jdbc-practice` :
 - 📌 [DBMS, MySQL & SQL](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/main/resources/com/dbmsjdbc/sql)
+- 📌 [JDBC Practice](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dbms-jdbc-practice/gcr-codebase/DBMSJDBCConcepts/src/main/java/com/dbmsjdbc/jdbc)
 - 📌 [Scenario-Based Solutions](https://github.com/Abhishek-Puri-Goswami/BridgeLabz-Training/tree/dbms-jdbc-practice/scenario-based-codebase/ScenarioPracticeDBMSJDBC/src/com)
 
 ---
